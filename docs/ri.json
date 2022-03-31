@@ -1,0 +1,36 @@
+[
+  {
+    "tags": [
+    ],
+    "type": [
+      "iudx:Resource",
+        "iudx:Streetlight"
+    ],
+    "description": "Locations of streetlights in Electronic City, Bangalore",
+    "@context": "https://voc.iudx.org.in/",
+    "label": "Streetlight locations",
+    "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+    "name": "streetlightlocations",
+    "itemStatus": "ACTIVE",
+    "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/bangalore-streetlights",
+    "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/bangalore-streetlight-data/streetlight-locations.parquet",
+    "instance": "sandbox"
+  },
+  {
+    "tags": [
+    ],
+    "type": [
+      "iudx:Resource",
+        "iudx:Streetlight"
+    ],
+    "description": "Energy consumption of streetlights in Electronic City, Bangalore",
+    "@context": "https://voc.iudx.org.in/",
+    "label": "Streetlight energy consumption",
+    "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+    "name": "streetlightenergy",
+    "itemStatus": "ACTIVE",
+    "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/bangalore-streetlights",
+    "downloadURL":"https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/bangalore-streetlight-data/streetlight-energy-data.parquet",
+    "instance": "sandbox"
+  }
+]

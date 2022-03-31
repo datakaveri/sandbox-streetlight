@@ -1,0 +1,47 @@
+{
+      "accessPolicy": "OPEN",
+      "dataSample": {
+      },
+      "itemStatus": "ACTIVE",
+      "type": [
+        "iudx:ResourceGroup",
+        "iudx:Streetlight"
+      ],
+      "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+      "iudxResourceAPIs": [
+        "ATTR",
+        "TEMPORAL"
+      ],
+      "location": {
+        "address": "Bangalore",
+        "type": "Place"
+      },
+      "@context": "https://voc.iudx.org.in/",
+      "tags": [
+        "streetlight",
+        "lamp post",
+        "location",
+        "street light",
+        "street lamp",
+        "light pole"
+      ],
+      "name": "bangalore-streetlights",
+      "description": " Locations of streetlights in Bangalore (Electronic City) is analysed to show areas with deficient streetlighting. This is an important aspect of pedestrian and womens safety. Energy consumption from these streetlights are also available and their statistics is shown.    \n\n <br/>  <img src=\"https://raw.githubusercontent.com/datakaveri/sandbox-streetlight/main/docs/streetlight.jpeg\" alt=\"Elcita Streetlight\" height=\"200\" width=\"300\"/> <img src=\"https://raw.githubusercontent.com/datakaveri/sandbox-streetlight/main/docs/analytic1.png\" alt=\"Analytic1\" height=\"200\" width=\"300\"/>",
+      "resourceServer": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in",
+      "resourceType": "MESSAGESTREAM",
+      "label": "Bangalore Streetlighting",
+      "dataDescriptor": {
+      },
+      "repositoryURL": "https://github.com/datakaveri/sandbox-streetlight.git",
+      "referenceResources": [
+        {
+          "id": "elcita.in/5c6cb972398bd01ad8c299f1e55da815e0c394f0/rs.iudx.org.in/bengaluru-elcita-streetlight-locations",
+          "name": "Streetlight locations",
+          "description": "Locations of streetlights in Electronic City, Bangalore",
+          "additionalInfoURL": "https://catalogue.iudx.org.in/dataset/elcita.in-5c6cb972398bd01ad8c299f1e55da815e0c394f0-rs.iudx.org.in-bengaluru-elcita-streetlight-locations"
+
+        }
+      ],
+      "itemCreatedAt": "2021-07-05T12:05:26+0530",
+      "instance": "sandbox"
+    }
